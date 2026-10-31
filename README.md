@@ -3,7 +3,7 @@
 
 ### Quick GitHub Pages Launch (3 Steps):
 1. Create a repository on GitHub (e.g. solviroenergy).
-2. Upload all files from this folder (index.html, solviro_energy_product_catalogue.pdf, CNAME, .nojekyll, README.md) to the main branch.
+2. Upload all files from this folder (index.html, solviro_ene inrgy_product_catalogue.pdf, CNAME, .nojekyll, README.md) to the main branch.
 3. In Repository Settings > Pages:
    - Source: Deploy from a branch
    - Branch: main / root
